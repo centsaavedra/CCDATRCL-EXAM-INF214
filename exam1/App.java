@@ -1,10 +1,7 @@
 import java.util.Stack;
 import java.util.LinkedList;
 public class App {
-    /**
-     * @param args
-     * @throws Exception
-     */
+
     public static void main(String[] args) throws Exception {
         
         System.out.println("======================================================");
